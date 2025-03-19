@@ -34,3 +34,10 @@ https://ejournal.unesa.ac.id/index.php/mathunesa/article/view/53084
 3. Jenius (B3) 0,3741  
 4. Blu (B5) 0,2482  
 5. NeoBank (B2) 0,0051
+
+### Beberapa Referensi
+https://github.com/Emeraldugbeyide93/Sentiment-Analysis-of-Mobile-Banking-Applications
+
+https://link.springer.com/chapter/10.1007/978-3-031-54019-6_29
+
+[text](https://www.researchgate.net/publication/373914432_Sentiment_Analysis_of_the_Use_of_Digital_Banking_Service_Applications_On_Google_Play_Store_Reviews_Using_Naive_Bayes_Method)
